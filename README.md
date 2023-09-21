@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# React Tic-Tac-Toe
 Features: <br>
 Two-player mode: Play against a friend on the same device. <br>
 Interactive gameplay: Click on the grid to make your move. <br>
